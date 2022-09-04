@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-   $(LOCAL_DIR)/nad_garden.mk
+   $(LOCAL_DIR)/spark_garden.mk
 
 COMMON_LUNCH_CHOICES := \
-    nad_garden-userdebug \
-    nad_garden-eng \
-    nad_garden-user
+    spark_garden-userdebug \
+    spark_garden-eng \
+    spark_garden-user
