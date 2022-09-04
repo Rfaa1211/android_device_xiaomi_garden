@@ -166,5 +166,5 @@ void vendor_load_properties()
         } else {
             property_override("ro.product.model", "Redmi 9A");
     }
-
+ }
 }
